@@ -2,7 +2,7 @@
 
 <h3 align="center">Software Engineer</h3>
 
-## My latest articles on my Medium blog
+## My latest guides on my Medium:
 * 2025-05-02 [PITest — a Hands‑On Guide to Mutation Testing in Java](https://medium.com/@edkobus/streamline-node-js-setup-with-nvm-a-developers-guide-0b3cc1ef173f)
 * 2025-01-27 [Node.js Version Management Made Easy with NVM](https://medium.com/@edkobus/streamline-node-js-setup-with-nvm-a-developers-guide-0b3cc1ef173f)
 
